@@ -14,3 +14,6 @@ wandb login --relogin
 # sync
 wandb sync ${WANDB_PATH}
 ```
+
+## Timer
+- Package: [timer](https://pypi.org/project/timer/)
